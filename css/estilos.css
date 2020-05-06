@@ -1,0 +1,20 @@
+html, body{
+    margin: 0px;
+
+}
+
+.titulo{
+    text-align: center;
+    background: blue;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#bola{
+    margin-right: 4px;
+    position: relative;
+
+}
